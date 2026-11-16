@@ -1,0 +1,93 @@
+{
+  "numStartups": 1,
+  "installMethod": "native",
+  "autoUpdates": false,
+  "tipsHistory": {
+    "new-user-warmup": 1,
+    "plan-mode-for-complex-tasks": 1,
+    "memory-command": 1,
+    "theme-command": 1,
+    "powershell-tool-env": 1,
+    "prompt-queue": 1,
+    "enter-to-steer-in-relatime": 1
+  },
+  "firstStartTime": "2026-11-16T13:59:51.931Z",
+  "firstStartVersion": "2.1.325",
+  "machineID": "ff72f5b800734fa59913edb7dfbc6d31d7d3b483731912e28fca1317169014fb",
+  "opusProMigrationComplete": true,
+  "seenNotifications": {},
+  "hasResetAutoModeOptInForDefaultOffer": true,
+  "migrationVersion": 15,
+  "userID": "af4183c51bec93c6cd8ec0f12b3de8058e71c44e4fa33a8987f2131342e23214",
+  "changelogLastFetched": 1794837592196,
+  "autoUpdatesProtectedForNative": true,
+  "hasCompletedOnboarding": true,
+  "lastOnboardingVersion": "2.1.325",
+  "lastReleaseNotesSeen": "2.1.325",
+  "hasSeenAutoDefaultNotice": true,
+  "projects": {
+    "C:/Users/Gustavo": {
+      "allowedTools": [],
+      "mcpContextUris": [],
+      "mcpServers": {},
+      "enabledMcpjsonServers": [],
+      "disabledMcpjsonServers": [],
+      "hasTrustDialogAccepted": false,
+      "hasClaudeMdExternalIncludesApproved": false,
+      "hasClaudeMdExternalIncludesWarningShown": false,
+      "lastGracefulShutdown": false,
+      "lastVersionBase": "2.1.325"
+    }
+  },
+  "closedIssuesLastChecked": 1794838434385,
+  "pluginUsage": {
+    "cc-plugin-agents-md@builtin": {
+      "usageCount": 0,
+      "lastUsedAt": 1794838434463,
+      "lastUsedNumStartups": 1
+    },
+    "cc-plugin-telemetry@builtin": {
+      "usageCount": 0,
+      "lastUsedAt": 1794838434463,
+      "lastUsedNumStartups": 1
+    },
+    "cc-plugin-privacy@builtin": {
+      "usageCount": 0,
+      "lastUsedAt": 1794838434463,
+      "lastUsedNumStartups": 1
+    },
+    "cc-plugin-plugin-authoring@builtin": {
+      "usageCount": 0,
+      "lastUsedAt": 1794838434463,
+      "lastUsedNumStartups": 1
+    },
+    "cc-plugin-diff@builtin": {
+      "usageCount": 0,
+      "lastUsedAt": 1794838434463,
+      "lastUsedNumStartups": 1
+    }
+  },
+  "gitForWindowsLauncher": {
+    "launcher": "C:\\Program Files\\Git\\cmd\\git.exe",
+    "size": 44872,
+    "mtimeMs": 1793039696000,
+    "program": "C:\\Program Files\\Git\\ucrt64\\bin\\git.exe"
+  },
+  "officialMarketplaceAutoInstallAttempted": true,
+  "officialMarketplaceAutoInstalled": true,
+  "tipLifetimeShownCounts": {
+    "new-user-warmup": 1,
+    "plan-mode-for-complex-tasks": 1,
+    "memory-command": 1,
+    "theme-command": 1,
+    "powershell-tool-env": 1,
+    "prompt-queue": 1,
+    "enter-to-steer-in-relatime": 1
+  },
+  "tipsHistoryByCommand": {
+    "memory": {
+      "tipId": "memory-command",
+      "numStartups": 1
+    }
+  }
+}
